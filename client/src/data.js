@@ -1,0 +1,31 @@
+export const products=[
+    {
+        id:1,
+        img:'https://www.neurosciencemarketing.com/wp-content/uploads/2015/10/horiz-design.jpg',
+        link:'https://www.linkedin.com/in/med-saad-b75221221/'
+    },{
+        id:2,
+        img:'https://support.content.office.net/fr-fr/media/2fa7e61f-017f-44ce-bba2-74ea3c9c8362.png',
+        link:'https://www.linkedin.com/in/med-saad-b75221221/'
+    },{
+        id:3,
+        img:'https://www.cfi.ch/wp-content/uploads/Site_SharePoint_Communication.png',
+        link:'https://www.linkedin.com/in/med-saad-b75221221/'
+    },{
+        id:4,
+        img:'https://docs.microsoft.com/fr-fr/sharepoint/sharepointonline/media/gw-team/gw-team-1-123.png',
+        link:'https://www.linkedin.com/in/med-saad-b75221221/'
+    },{
+        id:5,
+        img:'https://www.neurosciencemarketing.com/wp-content/uploads/2015/10/horiz-design.jpg',
+        link:'https://www.linkedin.com/in/med-saad-b75221221/'
+    },{
+        id:6,
+        img:'https://cache.wenovio.com/wp-content/uploads/2021/04/blogue-menu-site-web-01b.jpg',
+        link:'https://www.linkedin.com/in/med-saad-b75221221/'
+    },{
+        id:7,
+        img:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLMbMAipC5EUf6ka28vyxqV84UrX7rt60AsCV6rIMNMv6BYLM4JHru67sopaalomMkuPM&usqp=CAU',
+        link:'https://www.linkedin.com/in/med-saad-b75221221/'
+    }
+]
